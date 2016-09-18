@@ -12,7 +12,11 @@ body {
 	font-weight: 400;
 }
 h1 {
+    font-size: 1.1em;
 	margin-bottom: 5px;
+}
+i {
+    font-style: italic;
 }
 p {
 	font-size: 1em;
@@ -37,7 +41,7 @@ a {
   }
 }
 ul {
-	list-style: none;
+	list-style: disc inside;
 	li {
 		padding: 5px;
 		padding-left: 10px;

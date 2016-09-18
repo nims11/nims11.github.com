@@ -1,8 +1,8 @@
-- title: about
-  url: /me
+- title: home
+  url: /
+
+- title: blog
+  url: https://nims11.wordpress.com
 
 - title: github
-  url: https://github.com/getmicah
-
-- title: twitter
-  url: https://twitter.com/getmicah
+  url: https://github.com/nims11

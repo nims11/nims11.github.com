@@ -1,31 +1,32 @@
 ---
-layout: default
+layout: default_header
 ---
+<div class="experience">
+<h1>Interests</h1>
+<ul>
+    <li>Information Retrieval, Natural Langugage Processing</li>
+    <li>Linux, Competitive Programming, ...</li>
+    <li>Video Games, Anime, Heavy Metal, Doge</li>
+</ul>
+<h1>Current</h1>
+<ul>
+    <li>MMath (Computer Science), University of Waterloo <i>[Sept 2016 - ]</i></li>
+</ul>
 
-<div class="header">
-    <h1>{{ site.name }}</h1>
-    <ul>
-        {% for item in site.data.navigation %}
-        <li>
-            <a href="{{ item.url }}">{{ item.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
+<h1>Experience</h1>
+<ul>
+    <li>Software Engineer, Media.net, Directi <i>[Jul 2015 - Jul 2016]</i></li>
+    <li>Software Engineering Intern, Media.net, Directi <i>[May 2014 - Jul 2014]</i></li>
+</ul>
+
+<h1>Education</h1>
+<ul>
+    <li>Bachelors (Computer Science), Birla Institute of Technology, Mesra <i>[Jul 2011 - Apr 2015]</i></li>
+    <li>Delhi Public School, Ranchi <i>[Apr 1998 - Mar 2011]</i></li>
+</ul>
+<h1>Contact</h1>
+<ul>
+    <li>nghelani <i>_at_</i> uwaterloo <i>_dot_</i> ca</li>
+    <li>nimeshghelani <i>_at_</i> gmail <i>_dot_</i> com</li>
+</ul>
 </div>
-<div class="blog">
-    <h1>Blog Posts:</h1>
-    <ul>
-        {% for post in site.posts %}
-        <li>
-            <span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
-</div>
-<!--
-<div class="music">
-    <h1>Now Playing:</h1>
-    <a href="http://www.last.fm/user/getmicah"><span id="nowPlaying"></span></a>
-</div>
-<script src="/assets/js/main.js"></script>
--->
