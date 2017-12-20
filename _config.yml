@@ -4,14 +4,21 @@ permalink: /blog/:title
 
 # My variables
 name: Nimesh Ghelani
-description: Nimesh Ghelani's personal website
-google_verification: null
-# root: /
+description: Personal website of Nimesh Ghelani
+root: /
 
+navigation:
+  - title: home
+    url: /
+  - title: blog
+    url: https://nims11.wordpress.com
+  - title: github
+    url: https://github.com/nims11
+  - title: misc
+    url: /misc.html
 
 # File management
-include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
+exclude: ["README.md", "LICENSE", "Gemfile", "tags"]
 
 
 # Sass
