@@ -14,9 +14,12 @@ body {
 
 h1 {
     font-size: 1.1em;
-	margin-bottom: 5px;
-	margin-top: 8px;
+    margin-bottom: 5px;
+    margin-top: 8px;
+    text-decoration: underline;
+    text-decoration-style: dotted;
 }
+
 i {
     font-style: italic;
 }
@@ -75,6 +78,7 @@ ul {
 	h1 {
 		font-size: 2em;
 		margin-bottom: 0;
+                text-decoration: none;
 	}
 	ul {
 		margin-top: 10px;
