@@ -14,7 +14,7 @@ I love doing programming contests. Check out my [Competitive Programming](./codi
 
 I have an unhealthy obsession with optimizing my workflow and
 [ricing](https://www.reddit.com/r/unixporn/wiki/themeing/dictionary#wiki_rice){:target="_blank"}
-my [linux environment](https://github.com/nims11/dotfiles){:target="_blank"}.
+my [linux environment](./workspace).
 
 Apart from programming stuff, I spend my time playing [Video Games](./video-game-log.html) (mostly DoTA and JRPGs), watching [Anime](http://myanimelist.net/animelist/viceversa){:target="_blank"} and listening to music (mostly Heavy Metal and japanese stuff)
 

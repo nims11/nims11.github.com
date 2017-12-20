@@ -4,6 +4,7 @@ title: Misc Pages
 ---
 
 - [Coding contest profiles](./coding-contests.html)
+- [Workspace config and screenshots](./workspace)
 - [Anime Hall of Fame](./anime-hall-of-fame.html)
 - [Video Game Hall of Fame](./game-hall-of-fame.html)
 - [Music Hall of Fame](./music-hall-of-fame.html)
