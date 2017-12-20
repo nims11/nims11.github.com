@@ -5,7 +5,7 @@ permalink: /blog/:title
 # My variables
 name: Nimesh Ghelani
 description: Personal website of Nimesh Ghelani
-root: /
+# root: /
 
 navigation:
   - title: home
