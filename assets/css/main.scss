@@ -20,6 +20,15 @@ h1 {
     text-decoration-style: dotted;
 }
 
+.spoiler {
+    color: black;
+    background-color: black;
+}
+
+.spoiler:hover {
+    color: white;
+}
+
 i {
     font-style: italic;
 }

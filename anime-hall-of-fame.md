@@ -22,3 +22,4 @@ Highly refined list of personal super-favorites.
 - Ping Pong The Animation
 - Shirobako
 - Steins;Gate
+- Valkyria Chronicles

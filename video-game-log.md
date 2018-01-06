@@ -6,6 +6,18 @@ title: Video Game Log
 
 <div class="element-box" markdown="1">
 
+# Valkyria Chronicles
+
+- I have played Valkyria Chronicles 2 and seen the anime, so I know I would love this game
+- Strategy styled battles are fun as expected
+- Few QoL improvements could have been done in the battle sections
+- I feel the anime handled the story and characters better (VC anime is one of my all time favorites)
+    - Especially (spoiler ahead): <span class="spoiler">The insignificance of Isara's death in the game. I was surprised by how quickly everyone including Welkin returned back to normal! On the other hand, Isara's death in anime has a realistic impact on Welkin's behaviour and his relationship with everyone around him.</span>
+
+</div>
+
+<div class="element-box" markdown="1">
+
 # Doki Doki Literature Club
 
 - An hour into the game and it is still cute and normal
