@@ -2,7 +2,7 @@
 layout: default_header
 title: Video Game Hall of Fame
 ---
-[Vidoe Game Log](./video-game-log.html)
+[Video Game Log](./video-game-log.html)
 
 Highly refined list of personal super-favorites.
 
