@@ -20,6 +20,7 @@ Highly refined list of personal super-favorites.
 - Fullmetal Alchemist: Brotherhood
 - Monster
 - Ping Pong The Animation
+- Shin Sekai Yori
 - Shirobako
 - Steins;Gate
 - Valkyria Chronicles

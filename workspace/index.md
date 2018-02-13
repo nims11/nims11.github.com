@@ -5,7 +5,7 @@ title: Work/Play space Overview
 
 # Overview
 - My [dotfiles](https://github.com/nims11/dotfiles){:target="_blank"}
-- I have a 16 color palette in .Xresources and try my best to keep my vim, tmux, urxvt, zsh and i3 faithful it it.
+- I have a 16 color palette in .Xresources and try my best to keep my vim, tmux, st, zsh and i3 faithful it it.
 - The looks and config are consistent and synced across my school desktop and personal laptop.
 - A wild screenshot:
 
