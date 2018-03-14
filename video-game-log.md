@@ -6,10 +6,9 @@ title: Video Game Log
 
 <div class="element-box" markdown="1">
 
-# Odin Sphere: Leifthrasir
+# God Eater 2: Rage Burst
 
-- 2-d sidescrolling action jrpg
-- Lovely art and backgrounds; fun combat; cooking is an interesting way to progress without requiring a lot of grinding
+- Awful out-of-sync dubs -_-
 
 </div>
 
@@ -31,6 +30,17 @@ title: Video Game Log
 </div>
 
 # Finished
+
+<div class="element-box" markdown="1">
+
+# Odin Sphere: Leifthrasir
+
+- 2-d sidescrolling action jrpg
+- Lovely art and backgrounds; fun combat; cooking is an interesting way to progress without requiring a lot of grinding
+- I liked how all the stories of playable and non-playable characters were interwoven and converges at the end
+- <span class="spoiler">Spoiler: Too bad only the best girl dies in the true ending :(</span>
+
+</div>
 
 <div class="element-box" markdown="1">
 
