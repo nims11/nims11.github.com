@@ -1,7 +1,11 @@
 ---
 layout: default_header
 ---
-I am a <u>MMath</u> student in the <u>School of Computer Science</u> at <u>University of Waterloo</u>. My research interests lie in Information Retrieval and Machine Learning. I am part of the Data Systems Group and supervised by [Prof. Mark Smucker](http://www.mansci.uwaterloo.ca/~msmucker/){:target="_blank"}.
+I am a <u>MMath</u> student in the <u>School of Computer Science</u> at
+<u>University of Waterloo</u>. My research interests lie in Information
+Retrieval and Machine Learning. I am part of the Data Systems Group and
+supervised by [Prof. Mark Smucker](http://www.mansci.uwaterloo.ca/~msmucker/){:target="_blank"}.
+Here is my [list of publications](./publications.html).
 
 <br />
 # Interests
