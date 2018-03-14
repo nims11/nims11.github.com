@@ -5,7 +5,7 @@ I am a <u>MMath</u> student in the <u>School of Computer Science</u> at
 <u>University of Waterloo</u>. My research interests lie in Information
 Retrieval and Machine Learning. I am part of the Data Systems Group and
 supervised by [Prof. Mark Smucker](http://www.mansci.uwaterloo.ca/~msmucker/){:target="_blank"}.
-Here is my [list of publications](./publications.html).
+Here is my [list of publications](./publications.html) and [resume](./resume.pdf).
 
 <br />
 # Interests
@@ -47,7 +47,8 @@ Apart from programming stuff, I spend my time playing [Video Games](./video-game
         "I was a Makoto Shinkai fan before he was cool!",
         "The public key section above is mostly unnecessary. I just keep it there to look cool.",
         "I don't understand the point of LinkedIn. Here is my <a href='https://www.linkedin.com/in/nimesh-ghelani-36aab821' target='_blank'>LinkedIn Profile</a> btw.",
-        "My parents always talk to each other in different languages!"
+        "My parents always talk to each other in different languages!",
+        "My resume is lynx/elinks friendly (<code class='highlighter-rouge'>lynx https://nims11.github.io/resume/resume.html</code>)"
     ];
     document.write(fun_facts[Math.floor(Math.random() * fun_facts.length)]);
 </script>
