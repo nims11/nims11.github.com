@@ -14,15 +14,6 @@ title: Video Game Log
 
 <div class="element-box" markdown="1">
 
-# Talos Principle
-
-- Like Portal but with different mechanics
-- Lots of philosophical reference, but am struggling to understand a lot of it
-
-</div>
-
-<div class="element-box" markdown="1">
-
 # Hatoful Boyfriend
 
 - An otome game with pigeons! I don't know what to expect
@@ -30,6 +21,15 @@ title: Video Game Log
 </div>
 
 # Finished
+
+<div class="element-box" markdown="1">
+
+# Talos Principle
+
+- Challenging and fun puzzles (some stars levels insanely difficult)
+- Like Portal but with lots of philosophy and different mechanics (milton is as memorable as glados)
+
+</div>
 
 <div class="element-box" markdown="1">
 

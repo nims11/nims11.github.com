@@ -14,6 +14,7 @@ Highly refined list of personal super-favorites.
 - Persona 4
 - Portal 2
 - The Elder Scrolls V: Skyrim
+- The Talos Principle
 - To The Moon + Finding Paradise
 - Valkyria Chronicles (1,2) (loved 2 as it was my entry into the series, yet to play 3)
 - Valkyrie Profile: Lenneth
