@@ -29,3 +29,20 @@
     margin-top: 5px;
     margin-bottom: 5px;
 }
+
+a {color:#0000FF;}
+a:visited {color:#0000FF;}
+
+b {
+    font-weight: 600;
+}
+
+ul.sublist {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+ul.sublist li {
+    margin-left: 0;
+    padding-left: 0;
+}
