@@ -2,10 +2,10 @@
 layout: default_header
 ---
 I am a <u>MMath</u> student in the <u>School of Computer Science</u> at
-<u>University of Waterloo</u>. My research interests lie in Information
-Retrieval and Machine Learning. I am part of the Data Systems Group and
-supervised by [Prof. Mark Smucker](http://www.mansci.uwaterloo.ca/~msmucker/){:target="_blank"}.
-Here is my [list of publications](./publications.html) and [resume](./resume.pdf).
+<u>University of Waterloo</u>. My current research area is Information
+Retrieval. I am part of the Data Systems Group and supervised by [Prof. Mark
+Smucker](http://www.mansci.uwaterloo.ca/~msmucker/){:target="_blank"}.  Here is
+my [list of publications](./publications.html) and [resume](./resume.pdf).
 
 <br />
 # Interests
@@ -20,7 +20,10 @@ I have an unhealthy obsession with optimizing my workflow and
 [ricing](https://www.reddit.com/r/unixporn/wiki/themeing/dictionary#wiki_rice){:target="_blank"}
 my [linux environment](./workspace).
 
-Apart from programming stuff, I spend my time playing [Video Games](./video-game-log.html) (mostly DoTA and JRPGs), watching [Anime](http://myanimelist.net/animelist/viceversa){:target="_blank"} and listening to music (mostly Heavy Metal and japanese stuff)
+In addition to above-mentioned activities, I spend my time playing [Video
+Games](./video-game-log.html) (mostly DoTA and JRPGs), watching
+[Anime](http://myanimelist.net/animelist/viceversa){:target="_blank"} and
+listening to music (mostly Heavy Metal and japanese stuff)
 
 <br />
 # Contact
