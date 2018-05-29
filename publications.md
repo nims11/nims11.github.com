@@ -5,6 +5,7 @@ title: List of Publications
 
 # List of Publications
 
+- <b>A System for Efficient High-Recall Retrieval.</b> <i>ACM SIGIR 2018.</i> Mustafa Abualsaud, Nimesh Ghelani, Haotian Zhang, Mark Smucker, Gordon Cormack and Maura Grossman.
 - <b>Event Detection on Curated Tweet Streams.</b> <i>ACM SIGIR 2017.</i> Nimesh Ghelani, Salman Mohammed, Shine Wang, and Jimmy Lin.
 - <b>UWaterlooMDS at the TREC 2017 Core Track.</b> <i>TREC 2017.</i> Haotian Zhang, Mustafa Abualsaud, Nimesh Ghelani, Angshuman Ghosh, Gordon V. Cormack and Maura R. Grossman.
 - <b>Distant Supervision for Topic Classification of Tweets in Curated Streams.</b> <i>arXiv:1704.06726, April 2017.</i> Salman Mohammed, Nimesh Ghelani, and Jimmy Lin.
