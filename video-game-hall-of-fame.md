@@ -6,12 +6,13 @@ title: Video Game Hall of Fame
 
 Highly refined list of personal super-favorites.
 
+- Brothers: A Tale of Two Sons
+- Faster Than Light
 - Final Fantasy VII (Main Game + Crisis Core)
 - Final Fantasy Type-0
 - LISA
 - Oxenfree
-- Persona 3
-- Persona 4
+- Persona 3 and 4
 - Portal 2
 - The Elder Scrolls V: Skyrim
 - The Talos Principle

@@ -24,9 +24,21 @@ title: Video Game Log
 
 <div class="element-box" markdown="1">
 
+# Faster Than Light
+
+(The term "finished" don't apply to such games)
+
+- RNGesus will screw you if you leave any holes unpatched
+- Just at 80 hours, I haven't even unlocked most of the game
+- Insane replay value
+
+</div>
+
+<div class="element-box" markdown="1">
+
 # Talos Principle
 
-- Challenging and fun puzzles (some stars levels insanely difficult)
+- Challenging and fun puzzles (some stars levels insanely difficult, couldn't have done half of them without an online guide)
 - Like Portal but with lots of philosophy and different mechanics (milton is as memorable as glados)
 
 </div>
@@ -74,7 +86,7 @@ title: Video Game Log
     - A mid-story twist (saw it coming in this case though)
     - A perfect ending (more effective as by this point, the player can easily empathize with the patient)
     - Great music just amplifies everything two-folds
-- Many quote-worthy dialogues ("I think all our memories, and everything in it... can be nothing but the fiction we tell ourselves")
+- Many quote-worthy dialogues <span class="spoiler">("I think all our memories, and everything in it... can be nothing but the fiction we tell ourselves")</span>
 - While To The Moon told a beautiful and bittersweet love story filled with symbolism, Finding Paradise tells a thoughtful story about an individual
 </div>
 
