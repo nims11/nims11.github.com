@@ -24,6 +24,15 @@ title: Video Game Log
 
 <div class="element-box" markdown="1">
 
+# Lisa: The Joyful
+
+- This is a sequel DLC to LISA: The Painful, which is one my all-time favourites
+- Few additions to the information about the world and its characters, but overall an average and skippable game
+
+</div>
+
+<div class="element-box" markdown="1">
+
 # Faster Than Light
 
 (The term "finished" don't apply to such games)
