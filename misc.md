@@ -8,7 +8,7 @@ title: Misc Pages
 - [DoTA 2 Twitch Recommender](https://nims11.github.io/dota2-twitch-recommender/)
 - [Music Hall of Fame](./music-hall-of-fame.html)
 - [Publications](./publications.html)
-- [TAR-CAL++](./tarcal.html)
+- [HiCAL](./tarcal.html)
 - [Video Game Hall of Fame](./video-game-hall-of-fame.html)
 - [Video Game Log](./video-game-log.html)
 - [Workspace config and screenshots](./workspace)

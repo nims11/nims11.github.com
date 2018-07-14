@@ -10,9 +10,10 @@ my [list of publications](./publications.html) and [resume](./resume.pdf).
 <br />
 # Interests
 
-I enjoy building cool stuff. Bonus points if it is
-[funny](https://github.com/nims11/vim-nano){:target="_blank"} or
-[lame](https://github.com/nims11/dogefy){:target="_blank"}.
+I enjoy building things. Unfortunately my
+[proudest](https://github.com/nims11/vim-nano){:target="_blank"}
+[creations](https://github.com/nims11/dogefy){:target="_blank"} are pretty
+useless.
 
 I love doing programming contests. Check out my [Competitive Programming](./coding-contests.html) profiles.
 
@@ -22,17 +23,27 @@ my [linux environment](./workspace).
 
 In addition to above-mentioned activities, I spend my time playing [Video
 Games](./video-game-log.html) (mostly DoTA and JRPGs), watching
-[Anime](http://myanimelist.net/animelist/viceversa){:target="_blank"} and
-listening to music (mostly Heavy Metal and japanese stuff)
+[Anime](./anime-hall-of-fame.html) and listening to music (mostly Heavy Metal
+and weeb stuff)
+
+# Latest Posts
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+<div style="width:100%">
+<span style="text-align"><a href="./blog">--> More</a></span>
+</div>
 
 <br />
 # Contact
 - nghelani <i>\_at\_</i> uwaterloo <i>\_dot\_</i> ca
 - nimeshghelani <i>\_at\_</i> gmail <i>\_dot\_</i> com
+- [@nims11](https://twitter.com/nims11){:target="_blank"}
 
 <br />
 # Public Key
-- (I just use my gpg key to sign commits and encrypt files)
 - [pubkey.asc](./pubkey.asc)
 - `gpg --keyserver pgp.mit.edu --recv-key C838FC13F0FD455541C590412B6DAF67FFAE3F83`
 
@@ -48,7 +59,6 @@ listening to music (mostly Heavy Metal and japanese stuff)
         "As a kid, I was successfully convinced by my mom that if I watch the TV from a close distance, the person inside might grab and pull me in, forever!",
         "Unless it is a shitty horror movie, watching a movie is a very bad group activity.",
         "I was a Makoto Shinkai fan before he was cool!",
-        "The public key section above is mostly unnecessary. I just keep it there to look cool.",
         "I don't understand the point of LinkedIn. Here is my <a href='https://www.linkedin.com/in/nimesh-ghelani-36aab821' target='_blank'>LinkedIn Profile</a> btw.",
         "My parents always talk to each other in different languages!",
         "My resume is lynx/elinks friendly (<code class='highlighter-rouge'>lynx https://nims11.github.io/resume/resume.html</code>)"

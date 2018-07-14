@@ -1,8 +1,8 @@
 ---
 layout: default_header
-title: TAR-CAL++
+title: HiCAL
 ---
 
-# C++ Implementation of Auto-TAR
+# A system for efficient High Recall retrieval
 
-[Link to code](https://github.com/HTAustin/Haystack/tree/master/CALEngine)
+[Website](https://hical.github.io/)
