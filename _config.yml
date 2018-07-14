@@ -11,7 +11,7 @@ navigation:
   - title: home
     url: /
   - title: blog
-    url: https://nims11.wordpress.com
+    url: /blog
   - title: github
     url: https://github.com/nims11
   - title: misc
