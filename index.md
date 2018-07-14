@@ -40,7 +40,7 @@ and weeb stuff)
 </div>
 
 <div style="width:100%;text-align:right">
-<a href="./blog">--> More</a>
+<a href="./blog">--&gt; More</a>
 </div>
 
 <br />
