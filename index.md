@@ -26,14 +26,21 @@ Games](./video-game-log.html) (mostly DoTA and JRPGs), watching
 [Anime](./anime-hall-of-fame.html) and listening to music (mostly Heavy Metal
 and weeb stuff)
 
+<br />
 # Latest Posts
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
+<div class="blog">
+    <ul>
+        {% for post in site.posts limit:5 %}
+        <li>
+            <span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
 
-<div style="width:100%">
-<span style="text-align"><a href="./blog">--> More</a></span>
+<div style="width:100%;text-align:right">
+<a href="./blog">--> More</a>
 </div>
 
 <br />
