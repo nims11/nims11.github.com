@@ -5,6 +5,7 @@ title: List of Publications
 
 # List of Publications
 
+- <b>Effective User Interaction for High-Recall Retrieval: Less is More.</b> <i>CIKM 2018</i> Haotian Zhang, Mustafa Abualsaud, Nimesh Ghelani, Mark Smucker, Gordon Cormack and Maura Grossman
 - <b>Refresh Strategies in Continuous Active Learning.</b> <i>SIGIR 2018 workshop on Professional Search.</i> Nimesh Ghelani, Gordon Cormack, and Mark Smucker
 - <b>A System for Efficient High-Recall Retrieval.</b> <i>ACM SIGIR 2018.</i> Mustafa Abualsaud, Nimesh Ghelani, Haotian Zhang, Mark Smucker, Gordon Cormack, and Maura Grossman.
 - <b>Event Detection on Curated Tweet Streams.</b> <i>ACM SIGIR 2017.</i> Nimesh Ghelani, Salman Mohammed, Shine Wang, and Jimmy Lin.

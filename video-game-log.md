@@ -14,6 +14,21 @@ title: Video Game Log
 
 <div class="element-box" markdown="1">
 
+# Child of Light
+
+- Beautiful art and calming music
+- I recommend playing it on hard
+
+</div>
+
+<div class="element-box" markdown="1">
+
+# Witcher 2
+
+</div>
+
+<div class="element-box" markdown="1">
+
 # Hatoful Boyfriend
 
 - An otome game with pigeons! I don't know what to expect
