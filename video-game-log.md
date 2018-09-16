@@ -14,15 +14,6 @@ title: Video Game Log
 
 <div class="element-box" markdown="1">
 
-# Child of Light
-
-- Beautiful art and calming music
-- I recommend playing it on hard
-
-</div>
-
-<div class="element-box" markdown="1">
-
 # Witcher 2
 
 </div>
@@ -36,6 +27,17 @@ title: Video Game Log
 </div>
 
 # Finished
+
+
+<div class="element-box" markdown="1">
+
+# Child of Light
+
+- Beautiful art and music
+- I recommend playing it on hard; battles never get boring and it forces you to
+    use most of your characters
+
+</div>
 
 <div class="element-box" markdown="1">
 
