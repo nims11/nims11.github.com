@@ -62,6 +62,15 @@ title: Video Game Log
 
 <div class="element-box" markdown="1">
 
+# Persona 4: Dancing all night
+
+- Turns out rhythm games not my thing
+- The game is mostly fan service and story is mediocre + cliched
+
+</div>
+
+<div class="element-box" markdown="1">
+
 # Talos Principle
 
 - Challenging and fun puzzles (some stars levels insanely difficult, couldn't have done half of them without an online guide)
