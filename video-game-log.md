@@ -6,6 +6,12 @@ title: Video Game Log
 
 <div class="element-box" markdown="1">
 
+# Danganronpa 2
+
+</div>
+
+<div class="element-box" markdown="1">
+
 # God Eater 2: Rage Burst
 
 - Awful out-of-sync dubs -_-
@@ -28,6 +34,17 @@ title: Video Game Log
 
 # Finished
 
+
+<div class="element-box" markdown="1">
+
+# Danganronpa: Trigger Happy Havoc
+
+- Big Boss/Brother meets Avalon meets Anime? (With murder and gore)
+- Class trials are one of the most fun game mechanic I have encountered
+- Mysteries are quite unpredictable yet believable
+- Ending is a bit weak, which also has a lot of pointless and repetitive dialogues
+
+</div>
 
 <div class="element-box" markdown="1">
 
