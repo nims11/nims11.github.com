@@ -37,6 +37,16 @@ title: Video Game Log
 
 <div class="element-box" markdown="1">
 
+# Firewatch
+
+- Short and sweet; storytelling stands out
+- Had an oxenfree vibe to it
+- FPS motion sickness meter: just mild nausea, not too bad
+
+</div>
+
+<div class="element-box" markdown="1">
+
 # Danganronpa: Trigger Happy Havoc
 
 - Big Boss/Brother meets Avalon meets Anime? (With murder and gore)
