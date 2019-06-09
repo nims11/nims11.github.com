@@ -37,6 +37,16 @@ title: Video Game Log
 
 <div class="element-box" markdown="1">
 
+# Emily is away too
+
+- Low budget social media simulator
+- Virtual friends do suggest good music
+- Replayability is pretty tedious, I didn't bother to go through all the endings.
+
+</div>
+
+<div class="element-box" markdown="1">
+
 # Firewatch
 
 - Short and sweet; storytelling stands out
