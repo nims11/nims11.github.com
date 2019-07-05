@@ -1,9 +1,10 @@
 ---
 layout: default_header
 ---
-I am a <u>MMath</u> student in the <u>School of Computer Science</u> at
-<u>University of Waterloo</u>. My current research area is Information
-Retrieval. I am part of the Data Systems Group and supervised by [Prof. Mark
+I am an Engineer at Bloomberg, working on Information Retrieval and
+Machine Learning.  Prior to this, I was a <u>MMath</u> student in the <u>School
+of Computer Science</u> at <u>University of Waterloo</u>. I was part of the Data
+Systems Group and supervised by [Prof. Mark
 Smucker](http://www.mansci.uwaterloo.ca/~msmucker/){:target="_blank"}.  Here is
 my [list of publications](./publications.html).
 
@@ -45,6 +46,7 @@ and weeb stuff)
 
 <br />
 # Contact
+- nghelani2 <i>\_at\_</i> bloomber <i>\_dot\_</i> net
 - nghelani <i>\_at\_</i> uwaterloo <i>\_dot\_</i> ca
 - nimeshghelani <i>\_at\_</i> gmail <i>\_dot\_</i> com
 - [@nims11](https://twitter.com/nims11){:target="_blank"}
