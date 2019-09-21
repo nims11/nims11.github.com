@@ -8,14 +8,14 @@ Highly refined list of personal super-favorites.
 
 - Brothers: A Tale of Two Sons
 - Faster Than Light
-- Final Fantasy VII (Main Game + Crisis Core)
+- Final Fantasy VII (+ Crisis Core)
 - Final Fantasy Type-0
 - LISA
 - Oxenfree
-- Persona 3 and 4
+- Persona (3 > 5 > 4)
 - Portal 2
 - The Elder Scrolls V: Skyrim
 - The Talos Principle
 - To The Moon + Finding Paradise
-- Valkyria Chronicles (1,2) (loved 2 as it was my entry into the series, yet to play 3)
+- Valkyria Chronicles (3 > 1 > 2)
 - Valkyrie Profile: Lenneth

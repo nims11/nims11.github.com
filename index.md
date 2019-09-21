@@ -2,7 +2,7 @@
 layout: default_header
 ---
 I am an Engineer at Bloomberg, working on Information Retrieval and
-Machine Learning.  Prior to this, I was a <u>MMath</u> student in the <u>School
+Machine Learning in London, UK.  Prior to this, I was a <u>MMath</u> student in the <u>School
 of Computer Science</u> at <u>University of Waterloo</u>. I was part of the Data
 Systems Group and supervised by [Prof. Mark
 Smucker](http://www.mansci.uwaterloo.ca/~msmucker/){:target="_blank"}.  Here is
@@ -15,8 +15,6 @@ I enjoy building things. Unfortunately my
 [proudest](https://github.com/nims11/vim-nano){:target="_blank"}
 [creations](https://github.com/nims11/dogefy){:target="_blank"} are pretty
 useless.
-
-I love doing programming contests. Check out my [Competitive Programming](./coding-contests.html) profiles.
 
 I have an unhealthy obsession with optimizing my workflow and
 [ricing](https://www.reddit.com/r/unixporn/wiki/themeing/dictionary#wiki_rice){:target="_blank"}
@@ -46,7 +44,7 @@ and weeb stuff)
 
 <br />
 # Contact
-- nghelani2 <i>\_at\_</i> bloomber <i>\_dot\_</i> net
+- nghelani2 <i>\_at\_</i> bloomberg <i>\_dot\_</i> net
 - nghelani <i>\_at\_</i> uwaterloo <i>\_dot\_</i> ca
 - nimeshghelani <i>\_at\_</i> gmail <i>\_dot\_</i> com
 - [@nims11](https://twitter.com/nims11){:target="_blank"}

@@ -2,6 +2,8 @@
 layout: default_header
 title: Video Game Log
 ---
+[Video Game Hall of Fame](./video-game-hall-of-game.html)
+
 # Currently Playing
 
 <div class="element-box" markdown="1">
@@ -32,8 +34,26 @@ title: Video Game Log
 
 </div>
 
+<div class="element-box" markdown="1">
+
+# Dota 2
+
+- When does this game end?
+
+</div>
+
+
 # Finished
 
+<div class="element-box" markdown="1">
+
+# Red dead redemption 2
+
+- Takes a while to get used to, but the game is best enjoyed when experienced
+    gradually.
+- Mediocre battles and unnecessary bloodfest.
+
+</div>
 
 <div class="element-box" markdown="1">
 
