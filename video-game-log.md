@@ -42,8 +42,34 @@ title: Video Game Log
 
 </div>
 
+<div class="element-box" markdown="1">
+
+# Rakuen
+
+- Nice music, not surprising since Laura Shigihara has been involved with this
+    game.
+- The game feels a bit childish. Puzzles are unoriginal and not very fun. There
+    are many annoying things within the gameplay which could have been solved by
+    small QoL features.
+
+</div>
 
 # Finished
+
+<div class="element-box" markdown="1">
+
+# Persona 5
+
+- An expected but noteworthy upgrade in gameplay. Feels very polished.
+- Excels in all the usual Persona stuff: battles, music, art, social links.
+- A lot of unnecessary dialogs. I like games with a lot of text, but many of the
+    lines in this game feel redundant and obvious.
+- The theme of the game felt a bit weak and immature. Persona 3 was about death,
+    Persona 4 was about finding one's self, and Persona 5 was "Adults suck, lets
+    fix their shit".
+
+</div>
+
 
 <div class="element-box" markdown="1">
 
@@ -83,6 +109,16 @@ title: Video Game Log
 - Class trials are one of the most fun game mechanic I have encountered
 - Mysteries are quite unpredictable yet believable
 - Ending is a bit weak, which also has a lot of pointless and repetitive dialogues
+
+</div>
+
+<div class="element-box" markdown="1">
+
+# Valkyria Chronicles 3
+
+- Probably my favorite VC game yet (haven't played 4).
+- The hardware limits of the psp does show up with the map design.
+- Very long but I never got tired of the characters and progression.
 
 </div>
 
@@ -150,7 +186,7 @@ title: Video Game Log
 
 # Valkyria Chronicles
 
-- I have played Valkyria Chronicles 2 and seen the anime, so I know I would love this game
+- I have played Valkyria Chronicles 2 and seen the anime, so I knew I would love this game
 - Strategy styled battles are fun as expected
 - Few QoL improvements could have been done in the battle sections
 - I feel the anime handled the story and characters better (VC anime is one of my all time favorites)
