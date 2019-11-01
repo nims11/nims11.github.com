@@ -15,6 +15,7 @@ Highly refined list of personal favorites.
 
 # Series
 - Anohana
+- Chihayafuru
 - Daily Lives of High School Boys
 - Fate/Zero
 - Fullmetal Alchemist: Brotherhood
