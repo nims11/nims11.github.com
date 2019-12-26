@@ -14,23 +14,7 @@ title: Video Game Log
 
 <div class="element-box" markdown="1">
 
-# God Eater 2: Rage Burst
-
-- Awful out-of-sync dubs -_-
-
-</div>
-
-<div class="element-box" markdown="1">
-
-# Witcher 2
-
-</div>
-
-<div class="element-box" markdown="1">
-
-# Hatoful Boyfriend
-
-- An otome game with pigeons! I don't know what to expect
+# Tales of Berseria
 
 </div>
 
@@ -39,6 +23,34 @@ title: Video Game Log
 # Dota 2
 
 - When does this game end?
+
+</div>
+
+
+# On Hold
+
+<div class="element-box" markdown="1">
+
+# God Eater 2: Rage Burst
+
+- Awful out-of-sync dubs -_-
+- Going through this game is tiring
+
+</div>
+
+<div class="element-box" markdown="1">
+
+# Witcher 2
+
+- The battle system not clicking with me.
+
+</div>
+
+<div class="element-box" markdown="1">
+
+# Hatoful Boyfriend
+
+- An otome game with pigeons! I don't know what to expect
 
 </div>
 
@@ -54,7 +66,20 @@ title: Video Game Log
 
 </div>
 
+
 # Finished
+
+<div class="element-box" markdown="1">
+
+# The Last of Us
+
+- One of the greatest story and characters I haved seen in a game.
+- <span class="spoiler">Spoiler: Joel reminded me of Brad from Lisa.</span>
+- Playing the game on hard mode really was worth the experience. Killing
+    everything is not that important anymore.
+
+</div>
+
 
 <div class="element-box" markdown="1">
 

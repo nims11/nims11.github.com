@@ -15,13 +15,13 @@ Highly refined list of personal favorites.
 
 # Series
 - Anohana
-- Chihayafuru
 - Daily Lives of High School Boys
 - Fate/Zero
 - Fullmetal Alchemist: Brotherhood
 - March Comes Like A Lion
 - Monster
 - Ping Pong The Animation
+- Run With The Wind
 - Shin Sekai Yori
 - Shingeki no Kyojin
 - Shirobako
