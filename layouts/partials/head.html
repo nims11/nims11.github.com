@@ -1,0 +1,15 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <title>{{ .Title }} - {{ site.Title }}</title>
+
+    <meta name="description" content="{{ .Description }}">
+
+    <link rel="icon" href="{{ .Site.BaseURL }}favicon.png">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata:400,700">
+
+    {{ $style := resources.Get "css/main.scss" | resources.ToCSS }}
+    <link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}">
+</head>

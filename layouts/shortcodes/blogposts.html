@@ -1,0 +1,24 @@
+{{ if len .Params | eq 1 }}
+{{ $numPosts := .Get 0 }}
+<ul>
+    {{ range first $numPosts (where .Site.RegularPages "Section" "blog") }}
+    <li>
+        <span class="date">{{ .Date.Format "2006 Jan 02" }}</span> - <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+</ul>
+<div style="width:100%;text-align:right">
+    {{ range first 1 (where .Site.Sections "Section" "blog") }}
+    <a href="{{ .RelPermalink }}">--&gt; More</a>
+    {{ end }}
+</div>
+
+{{ else }}
+<ul>
+    {{ range (where .Site.RegularPages "Section" "blog") }}
+    <li>
+        <span class="date">{{ .Date.Format "2006 Jan 02" }}</span> - <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}

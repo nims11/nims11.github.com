@@ -1,0 +1,29 @@
+# baseURL: http://example.org/
+disablePathToLower: true
+languageCode: en-us
+title: Nimesh Ghelani
+
+menu:
+  main:
+    - name: home
+      url: /
+      weight: 1
+    - name: blog
+      url: /blog
+      weight: 2
+    - name: github
+      url: https://github.com/nims11
+      weight: 3
+    - name: misc
+      url: /misc.html
+      weight: 4
+
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+permalinks:
+  post: "/blog/:slug"

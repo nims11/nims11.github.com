@@ -1,0 +1,11 @@
+<div class="header">
+    <h1>{{ .Site.Title }}</h1>
+    <ul>
+        {{ $baseUrl := .Site.BaseURL }}
+        {{ range .Site.Menus.main }}
+        <li>
+            <a href="{{ .URL }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
