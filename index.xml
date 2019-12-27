@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Nimesh Ghelani</title>
+    <link>/</link>
+    <description>Recent content in Home on Nimesh Ghelani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>vim-nano now supports vim8</title>
+      <link>/blog/vim-nano/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/vim-nano/</guid>
+      <description>Try out vim-nano
+I decided to try Tinder one weekend and after no matches, I started wondering if it was universe&#39;s way of telling me to attend to a far greater cause. It was then that I realized, vim-nano only supports neovim. April 1st, what a great day to announce that vim-nano now supports vim8!!
+Back when I initially wrote vim-nano, I relied on the terminal support of neovim to simulate the top and bottom bar of GNU Nano.</description>
+    </item>
+    
+    <item>
+      <title>SIGIR 2018</title>
+      <link>/blog/sigir/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sigir/</guid>
+      <description>There was a lot to learn and experience this year at SIGIR. Ann Arbor is not the most exciting place, but certain parts of the UMichigan campus has its charm (plus the fireflies).
+  UMichigan Law Residence   Here is my talk at the Professional Search workshop (which btw, was also a great experience).
+Apart from the alignment issues of my pdf presentation (apparently rendering pdf presentations is still not universally simple), I didn&#39;t majestically mess up.</description>
+    </item>
+    
+    <item>
+      <title>Using statistics to find whether DoTA Plus is pay2win</title>
+      <link>/blog/dotaplus/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/dotaplus/</guid>
+      <description>TL;DR No.
+Note: I did this study few months ago, got bored of it and forgot about it. Most of the writeup here is what I wrote back then.
+Context (skippable) Few months ago, Valve introduced Dota Plus, a Dota 2 subscription service which replaces the traditional battle passes for Majors. Among many other things, the service offers the dota plus assistant, which is an in-game helper providing players individual stats and on the fly suggestions about items and abilities.</description>
+    </item>
+    
+    <item>
+      <title>Anime Hall of Fame</title>
+      <link>/anime-hall-of-fame.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/anime-hall-of-fame.html</guid>
+      <description>My animelist
+Highly refined list of personal favorites.
+Movies  5 Centimeters Per Seconds Hotarubi no Mori e Sword of the Stranger Wolf Children Your Name / Kimi no na wa  Series  Anohana Daily Lives of High School Boys Fate/Zero Fullmetal Alchemist: Brotherhood March Comes Like A Lion Monster Ping Pong The Animation Run With The Wind Shin Sekai Yori Shingeki no Kyojin Shirobako Steins;Gate Valkyria Chronicles Violet Evergarden  </description>
+    </item>
+    
+    <item>
+      <title>Anime Log</title>
+      <link>/anime-log.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/anime-log.html</guid>
+      <description>My animelist</description>
+    </item>
+    
+    <item>
+      <title>List of Publications</title>
+      <link>/publications.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications.html</guid>
+      <description>Dynamic sampling meets pooling. ACM SIGIR 2019 Gordon Cormack, Haotian Zhang, Nimesh Ghelani, Mustafa Abualsaud, Mark Smucker, Maura Grossman, Shahin Rahbariasl, Amira Ghenai. Effective User Interaction for High-Recall Retrieval: Less is More. CIKM 2018 Haotian Zhang, Mustafa Abualsaud, Nimesh Ghelani, Mark Smucker, Gordon Cormack and Maura Grossman Refresh Strategies in Continuous Active Learning. SIGIR 2018 workshop on Professional Search. Nimesh Ghelani, Gordon Cormack, and Mark Smucker A System for Efficient High-Recall Retrieval.</description>
+    </item>
+    
+    <item>
+      <title>Misc</title>
+      <link>/misc.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/misc.html</guid>
+      <description> Coding contest profiles DoTA 2 Twitch Recommender Halls of Fame  Anime Hall of Fame Music Hall of Fame Video Game Hall of Fame   Logs  Anime Log Video Game Log   Publications HiCAL Workspace config and screenshots  </description>
+    </item>
+    
+    <item>
+      <title>Music Hall of Fame</title>
+      <link>/music-hall-of-fame.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/music-hall-of-fame.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Log</title>
+      <link>/music-log.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/music-log.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming contest platforms where I am/was active</title>
+      <link>/coding-contests.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/coding-contests.html</guid>
+      <description> Codeforces Topcoder Codechef  </description>
+    </item>
+    
+    <item>
+      <title>Video Game Hall of Fame</title>
+      <link>/video-game-hall-of-fame.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/video-game-hall-of-fame.html</guid>
+      <description>Video Game Log
+Highly refined list of personal super-favorites.
+ Brothers: A Tale of Two Sons Faster Than Light Final Fantasy VII (+ Crisis Core) Final Fantasy Type-0 LISA Oxenfree Persona (3 &amp;gt; 5 &amp;gt; 4) Portal 2 The Elder Scrolls V: Skyrim The Talos Principle To The Moon + Finding Paradise Valkyria Chronicles (3 &amp;gt; 1 &amp;gt; 2) Valkyrie Profile: Lenneth  </description>
+    </item>
+    
+    <item>
+      <title>Video Game Log</title>
+      <link>/video-game-log.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/video-game-log.html</guid>
+      <description>Video Game Hall of Fame
+Currently Playing Danganronpa 2  Tales of Berseria  Dota 2  When does this game end?   On Hold God Eater 2: Rage Burst  Awful out-of-sync dubs -_- Going through this game is tiring   Witcher 2  The battle system not clicking with me.   Hatoful Boyfriend  An otome game with pigeons! I don&#39;t know what to expect   Rakuen  Nice music, not surprising since Laura Shigihara has been involved with this game.</description>
+    </item>
+    
+    <item>
+      <title>Work/Play space Overview</title>
+      <link>/workspace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workspace/</guid>
+      <description>My dotfiles I have a 16 color palette in .Xresources and try my best to keep my vim, tmux, st, zsh and i3 faithful it it. The looks and config are consistent and synced across my school desktop and personal laptop. A wild screenshot:  
+ That cool bar in the bottom is my lemonbar fork with mouse hover support. It works but is an ugly hack. Here is the bar generator script.</description>
+    </item>
+    
+  </channel>
+</rss>
