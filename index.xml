@@ -6,10 +6,20 @@
     <description>Recent content in Home on Nimesh Ghelani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 04:54:08 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Moving to Hugo</title>
+      <link>/blog/moving-to-hugo/</link>
+      <pubDate>Wed, 01 Jan 2020 04:54:08 +0000</pubDate>
+      
+      <guid>/blog/moving-to-hugo/</guid>
+      <description>I have successfully migrated this website from Jekyll to Hugo. While jekyll served me well, the ruby dependency management drove me crazy at various occasions. I had spare time and wanted to give hugo a try.
+What I like about Hugo  Clean dependencies. It can do a lot more things off the bat compared to jekyll. I am very excited to incorporate data templates into this site. Very fast.  What I dislike about Hugo  Being habituated with Liquid templating, I am still not confident of my go templating skills.</description>
+    </item>
     
     <item>
       <title>vim-nano now supports vim8</title>
@@ -127,7 +137,7 @@ Highly refined list of personal super-favorites.
       
       <guid>/video-game-log.html</guid>
       <description>Video Game Hall of Fame
-Currently Playing Danganronpa 2  Tales of Berseria  Dota 2  When does this game end?   On Hold God Eater 2: Rage Burst  Awful out-of-sync dubs -_- Going through this game is tiring   Witcher 2  The battle system not clicking with me.   Hatoful Boyfriend  An otome game with pigeons! I don&#39;t know what to expect   Rakuen  Nice music, not surprising since Laura Shigihara has been involved with this game.</description>
+Currently Playing Tales of Berseria  Dota 2  When does this game end?   On Hold God Eater 2: Rage Burst  Awful out-of-sync dubs -_- Going through this game is tiring   Witcher 2  The battle system not clicking with me.   Hatoful Boyfriend  An otome game with pigeons! I don&#39;t know what to expect   Rakuen  Nice music, not surprising since Laura Shigihara has been involved with this game.</description>
     </item>
     
     <item>
