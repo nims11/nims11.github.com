@@ -8,12 +8,6 @@ title: Video Game Log
 
 <div class="element-box" markdown="1">
 
-# Danganronpa 2
-
-</div>
-
-<div class="element-box" markdown="1">
-
 # Tales of Berseria
 
 </div>
@@ -68,6 +62,20 @@ title: Video Game Log
 
 
 # Finished
+
+<div class="element-box" markdown="1">
+
+# Danganronpa 2
+
+- Murder cases were more complex and fun than DR1, but I preferred the
+    characters in DR1 slightly more.
+- The buildup for the ending was great, although the very final conclusion was a
+    bit disappointing.
+    - <span class="spoiler">Spoiler: The authors tried too hard to give us a
+        happy ending. I would have been okay with a bittersweet one.</span>
+
+</div>
+
 
 <div class="element-box" markdown="1">
 
