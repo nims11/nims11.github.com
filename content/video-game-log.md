@@ -54,7 +54,7 @@ title: Video Game Log
 
 - Nice music, not surprising since Laura Shigihara has been involved with this
     game.
-- The game feels a bit childish. Puzzles are unoriginal and not very fun. There
+- Puzzles are unoriginal and not very fun. There
     are many annoying things within the gameplay which could have been solved by
     small QoL features.
 
@@ -65,12 +65,62 @@ title: Video Game Log
 
 <div class="element-box" markdown="1">
 
+# Nier: Automata
+
+- It is a creative use games as a storytelling medium (ending E for example).
+- I loved the side quests. They actually help us understanding better the
+    game world.
+- Deals with dark and philosophical themes, while still managing to put in
+    some humor (sometimes dark).
+- Whether it is in battles, key moments, credits or just chilling around, the
+    music in the game is so fucking good.
+
+</div>
+
+<div class="element-box" markdown="1">
+
+# Journey
+
+- The game has a philosophical undertone and can be
+    possibly interpreted in multiple ways. The story is open to interpretation
+    and is in my opinion one of the key strengths.
+- The game and score were made for each other. The ending brings out the best of
+    the music, art and gameplay.
+
+</div>
+
+<div class="element-box" markdown="1">
+
+# Titanfall 2
+
+- First modern FPS I have played in a long time. It was definitely fun but my
+    FPS appetite has been fulfilled for a while.
+- The "Effects and Causes" level is one of the most creative levels I have
+    played.
+
+</div>
+
+
+<div class="element-box" markdown="1">
+
+# Danganronpa: Another Episode
+
+- A disappointment.
+- Mostly fan service; doesn't add anything of value to the franchise.
+
+</div>
+
+
+<div class="element-box" markdown="1">
+
 # Danganronpa 2
 
 - Murder cases were more complex and fun than DR1, but I preferred the
     characters in DR1 slightly more.
 - The buildup for the ending was great, although the very final conclusion was a
     bit disappointing.
+    - <span class="spoiler">Spoiler: Nagito's murder case was genius and a
+        perfect end to the best character in the game.</span>
     - <span class="spoiler">Spoiler: The authors tried too hard to give us a
         happy ending. I would have been okay with a bittersweet one.</span>
 

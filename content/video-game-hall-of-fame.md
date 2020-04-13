@@ -10,7 +10,9 @@ Highly refined list of personal super-favorites.
 - Faster Than Light
 - Final Fantasy VII (+ Crisis Core)
 - Final Fantasy Type-0
+- Journey
 - LISA
+- Nier: Automata
 - Oxenfree
 - Persona (3 > 5 > 4)
 - Portal 2
@@ -18,4 +20,3 @@ Highly refined list of personal super-favorites.
 - The Talos Principle
 - To The Moon + Finding Paradise
 - Valkyria Chronicles (3 > 1 > 2)
-- Valkyrie Profile: Lenneth
