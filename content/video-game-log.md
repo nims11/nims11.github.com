@@ -77,13 +77,29 @@ title: Video Game Log
 
 <div class="spoiler">
 
+Let's begin with things I didn't like
+
+- A2 could have used more screentime.
+- Camera during battles could be more refined (locking in particular).
+- Maps were awful.
+
+There are so many things I loved about the game
 - The use of credits in Ending E, where we are fighting the creators is genius and one of
-    the most heartmoving moments in gaming.
+    the most heartmoving moments in gaming. It also ties back to the game's
+    opening line by 2B.
 - 9S is my favorite character. How he breaks after knowing the truth of humanity
     and 2B's death was handled brilliantly by the story and the voice actor.
-- A2 could have used more screentime.
-- This has got me interested in exploring more existentialism literature.
-- Machines and Android are tied to the purpose given to them by the aliens and
+
+## Music and Sound
+The music takes this epic game and propels it to the moon. The sound design does
+a notable job of integrating the music into the game. I loved the smooth
+transition to 8-bit soundtrack and back during hacking. "Weight of the world" is
+used to its full potential. The heavy notes in the song justified the song
+title.
+
+## Notes
+This has got me interested in exploring more existentialism literature.
+Machines and Android are tied to the purpose given to them by the aliens and
 humans respectively, their gods.  When the "God is dead", in both cases, how
 does one find purpose? Machines disconnected from the network handle this by
 imitating humans. Pascal sets up a village built around pacifism. Some machines
@@ -107,7 +123,8 @@ hope that he makes it out of this mess (althogh I believe it is suggested that
 he kills himself instead). Wiping his memory also leads to a sad moment where we
 find a clueless Pascal selling the parts of village children without knowing
 where they came from.
-- We don't get to see similar attempts from androids since their purpose is built
+
+We don't get to see similar attempts from androids since their purpose is built
 on lies of humans being alive. For the androids who do knwo the truth, 9S goes
 insane. A2 is hard to explain, but she does bear hatred towards machines and
 inherits the will of 2B to save 9S. The pods have a purpose of serving their
