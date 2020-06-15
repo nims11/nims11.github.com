@@ -36,7 +36,7 @@ and weeb stuff). I also enjoy swimming and speedcubing.
 
 # Public Key
 - [pubkey.asc](./pubkey.asc)
-- `gpg --keyserver pgp.mit.edu --recv-key C838FC13F0FD455541C590412B6DAF67FFAE3F83`
+- `gpg --keyserver keyserver.ubuntu.com --recv-key C838FC13F0FD455541C590412B6DAF67FFAE3F83`
 
 # Random Fun Fact
 <script type="text/javascript">
