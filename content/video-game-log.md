@@ -65,6 +65,31 @@ title: Video Game Log
 
 <div class="element-box" markdown="1">
 
+# Undertale
+
+A bit underwhelming after I set my expectations too high (coming from LISA).
+Objectively a decent game. While it does have darker tone, the game is more
+lighthearted than my preference.
+
+One thing I dislike about games in general is how multiple endings are handled.
+I didn't really feel the desire to do multiple runs to achieve the multiple
+endings since most of the experience would have remained the same. In contrast,
+I loved how Nier Automata did multiple endings.
+
+</div>
+
+<div class="element-box" markdown="1">
+
+# VVVVVV
+
+Delightfully frustrating at times, but the music kept me well accompanied. It
+has been a while since I have played a game with enjoyable difficulty.
+
+</div>
+
+
+<div class="element-box" markdown="1">
+
 # Nier: Automata
 
 - It is a creative use games as a storytelling medium (ending E for example).
