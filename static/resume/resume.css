@@ -1,0 +1,48 @@
+.main-container {
+    padding: 15px;
+    font-size: 14px;
+}
+#header {
+    margin-bottom: 15px;
+}
+#header h1 {
+    display: inline;
+    font-family: Ubuntu;
+}
+#header-right {
+    float: right;
+    font-family: "Titillium Web";
+}
+#email {
+    display: block;
+    font-style: italic;
+    margin-top: -5px;
+}
+.section-header {
+    font-family: "Montserrat";
+}
+.section-header-separator {
+    margin-top: -2px;
+}
+.section-list {
+    font-family: "Source Sans Pro";
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+a {color:#0000FF;}
+a:visited {color:#0000FF;}
+
+b {
+    font-weight: 600;
+}
+
+ul.sublist {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+ul.sublist li {
+    margin-left: 0;
+    padding-left: 0;
+}
