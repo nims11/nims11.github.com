@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Nimesh Ghelani</title>
+    <link>/</link>
+    <description>Recent content in Home on Nimesh Ghelani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oh Windows 10!</title>
+      <link>/blog/windows-10/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/windows-10/</guid>
+      <description>I have been using Windows 10 on a Thinkpad X1 Carbon for work and my experience with it has been less than joyful. Before listing my day-to-day grievances I would like to make a few points:
+Bad defaults are still a bad thing. So even if I can turn off most of the ads, I have every right to complain. I use Linux exclusively on my personal computers so I use that experience as my baseline.</description>
+    </item>
+    
+    <item>
+      <title>Moving to Hugo</title>
+      <link>/blog/moving-to-hugo/</link>
+      <pubDate>Wed, 01 Jan 2020 04:54:08 +0000</pubDate>
+      
+      <guid>/blog/moving-to-hugo/</guid>
+      <description>I have successfully migrated this website from Jekyll to Hugo. While jekyll served me well, the ruby dependency management drove me crazy at various occasions. I had spare time and wanted to give hugo a try.
+What I like about Hugo Clean dependencies. It can do a lot more things off the bat compared to jekyll. I am very excited to incorporate data templates into this site. Very fast. What I dislike about Hugo Being habituated with Liquid templating, I am still not confident of my go templating skills.</description>
+    </item>
+    
+    <item>
+      <title>vim-nano now supports vim8</title>
+      <link>/blog/vim-nano/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/vim-nano/</guid>
+      <description>Try out vim-nano
+I decided to try Tinder one weekend and after no matches, I started wondering if it was universe&amp;rsquo;s way of telling me to attend to a far greater cause. It was then that I realized, vim-nano only supports neovim. April 1st, what a great day to announce that vim-nano now supports vim8!!
+Back when I initially wrote vim-nano, I relied on the terminal support of neovim to simulate the top and bottom bar of GNU Nano.</description>
+    </item>
+    
+    <item>
+      <title>SIGIR 2018</title>
+      <link>/blog/sigir/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sigir/</guid>
+      <description>There was a lot to learn and experience this year at SIGIR. Ann Arbor is not the most exciting place, but certain parts of the UMichigan campus has its charm (plus the fireflies).
+UMichigan Law Residence Here is my talk at the Professional Search workshop (which btw, was also a great experience).
+Apart from the alignment issues of my pdf presentation (apparently rendering pdf presentations is still not universally simple), I didn&amp;rsquo;t majestically mess up.</description>
+    </item>
+    
+    <item>
+      <title>Using statistics to find whether DoTA Plus is pay2win</title>
+      <link>/blog/dotaplus/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/dotaplus/</guid>
+      <description>TL;DR No.
+Note: I did this study few months ago, got bored of it and forgot about it. Most of the writeup here is what I wrote back then.
+Context (skippable) Few months ago, Valve introduced Dota Plus, a Dota 2 subscription service which replaces the traditional battle passes for Majors. Among many other things, the service offers the dota plus assistant, which is an in-game helper providing players individual stats and on the fly suggestions about items and abilities.</description>
+    </item>
+    
+    <item>
+      <title>Favorite anime</title>
+      <link>/anime.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/anime.html</guid>
+      <description>My animelist (I don&amp;rsquo;t watch much nowadays).
+Anime I love.
+Movies 5 Centimeters Per Seconds Hotarubi no Mori e Sword of the Stranger Wolf Children Your Name / Kimi no na wa Series Anohana Attack on Titan Daily Lives of High School Boys Fate/Zero Fullmetal Alchemist: Brotherhood March Comes Like A Lion Monster Ping Pong The Animation Run With The Wind Shin Sekai Yori Shirobako Steins;Gate Violet Evergarden </description>
+    </item>
+    
+    <item>
+      <title>Favorite Books</title>
+      <link>/books.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/books.html</guid>
+      <description>Goodreads.
+Books I love.
+Non Fiction Animal Liberation by Peter Singer The Life You Can Save by Peter Singer Ethics in the Real World: Essays by Peter Singer Free Will by Sam Harris Waking Up by Sam Harris Night Falls Fast: Understanding Suicide by Kay Redfield Jamison Darkness Visible: A Memoir of Madness by William Styron The Body Keeps the Score by Kolk Sci-fi Recursion by Blake Crouch Exhalation by Ted Chiang Stories of Your Life and Others by Ted Chiang There Is No Antimemetics Division by qntm The Wandering Earth by Cixin Liu Other Fiction Oyasumi Punpun by Inio Asano </description>
+    </item>
+    
+    <item>
+      <title>Favorite Video Games</title>
+      <link>/games.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/games.html</guid>
+      <description>Games I love.
+Brothers: A Tale of Two Sons Faster Than Light Final Fantasy VII (+ Crisis Core) Into the Breach Journey LISA Nier: Automata Oxenfree Persona (3 &amp;gt; 5 &amp;gt; 4) Portal 2 The Elder Scrolls V: Skyrim The Talos Principle To The Moon + Finding Paradise Valkyria Chronicles (3 &amp;gt; 1 &amp;gt; 2) </description>
+    </item>
+    
+    <item>
+      <title>List of Publications</title>
+      <link>/publications.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications.html</guid>
+      <description>Dynamic sampling meets pooling. ACM SIGIR 2019 Gordon Cormack, Haotian Zhang, Nimesh Ghelani, Mustafa Abualsaud, Mark Smucker, Maura Grossman, Shahin Rahbariasl, Amira Ghenai. Effective User Interaction for High-Recall Retrieval: Less is More. CIKM 2018 Haotian Zhang, Mustafa Abualsaud, Nimesh Ghelani, Mark Smucker, Gordon Cormack and Maura Grossman Refresh Strategies in Continuous Active Learning. SIGIR 2018 workshop on Professional Search. Nimesh Ghelani, Gordon Cormack, and Mark Smucker A System for Efficient High-Recall Retrieval.</description>
+    </item>
+    
+  </channel>
+</rss>

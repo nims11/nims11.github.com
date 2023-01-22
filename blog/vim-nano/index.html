@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <title>vim-nano now supports vim8 - Nimesh Ghelani</title>
+
+    <meta name="description" content="">
+
+    <link rel="icon" href="favicon.png">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata:400,700">
+
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+<body>
+        <div class="wrapper"><div class="header">
+    <h1><a href="/">Nimesh Ghelani</a></h1>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+<div id="content">
+            <h1>vim-nano now supports vim8</h1>
+            <p><a href="https://github.com/nims11/vim-nano">Try out vim-nano</a></p>
+<p>I decided to try Tinder one weekend and after no matches, I started wondering if
+it was universe&rsquo;s way of telling me to attend to a far greater cause. It was
+then that I realized, vim-nano only supports neovim.  April 1st, what a great
+day to announce that vim-nano now supports vim8!!</p>
+<p>Back when I initially wrote vim-nano, I relied on the terminal support of neovim
+to simulate the top and bottom bar of GNU Nano.  Since vim8 introduced terminal
+support, I wanted to make vim-nano compatible with it. It wasn&rsquo;t very
+straightforward though. For some reason unknown to me, vim8 and neovim use
+different API and behaviour for the terminal. Once dealing with it, I realized
+something even more annoying.  Arrow keys in vim8 are actually a sequence which
+starts with &lt;Esc&gt;. Thus mapping &lt;Esc&gt; to &lt;nop&gt; breaks arrow keys. Dysfunctional
+arrow keys are unacceptable for a seamless GNU Nano experience.  But at the same
+time, I don&rsquo;t want the users to be able to get into Normal mode through &lt;Esc&gt;
+(although it is still possible through alternative means if you really like
+spoiling fun).  Although not perfect, someone had a wacky solution for this
+(<a href="https://github.com/vim/vim/issues/2050)">https://github.com/vim/vim/issues/2050)</a>. Just map &lt;Esc&gt;x to &lt;Esc&gt;x!</p>
+<p>Just when I thought I was done, I realized a change in the terminal behaviour of
+neovim. It didn&rsquo;t autoscroll output anymore for the bottom bar generator! A
+python script prints out the bottom toolbar whenever there is a resize. The
+autoscroll creates an illusion of responsive toolbar which adapts to resizes.
+The solution was to just move the cursor to the end of the bottom bar buffer
+after running the python script.</p>
+<p>While I started this small project as a joke which adds absolutely nothing to
+humanity, I am interested to see how far I can take it through these ugly hacks.
+GNU Nano is pretty impressive for what it does and vim-nano is just a crappy
+emulation missing a lot of its core features (we have more GNU Nano 4.0 features
+to look forward to as well).</p>
+
+            </div></div>
+    </body>
+</html>
