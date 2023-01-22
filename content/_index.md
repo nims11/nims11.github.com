@@ -5,12 +5,9 @@ title: Home
 Currently a Research Engineer in Deepmind, London, UK. Previously ML Engineer at
 Bloomberg.
 
-# Contact
-
-nimeshghelani <i>\_at\_</i> gmail <i>\_dot\_</i> com
-
 # Links
 
+- [nimeshghelani@gmail.com](mailto:nimeshghelani@gmail.com)
 - [Publications](https://scholar.google.ca/citations?user=QTtgSvEAAAAJ&hl=en).
 - [Twitter](https://twitter.com/nims11).
 - [Github](https://github.com/nims11).
